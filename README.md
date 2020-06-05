@@ -1,10 +1,11 @@
-# Web Auth III Guided Project
+# Node Auth 2 Guided Project
 
-Guided project for **Web Auth III** Module.
+Guided project for **Node Auth 2** Module.
 
 ## Prerequisites
 
 - [SQLite Studio](https://sqlitestudio.pl/index.rvt?act=download) installed.
+- Optional: PostgreSQL and pgAdmin 4 installed.
 
 ## Project Setup
 
